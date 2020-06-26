@@ -6,3 +6,7 @@ projects.
 The idea is that we have a set of guidelines around the development of
 projects, that is reasonable and easy to understand, so we promote
 consistency and quality in Kinvolk's projects as a common effort.
+
+## Development Topics
+
+ * [Git / Github](./git/README.md)
