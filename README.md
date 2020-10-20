@@ -1,4 +1,4 @@
-# Kinvolk Contribution Guidelines
+# Kinvolk Contribution Guidelines <img align="right" src="https://avatars2.githubusercontent.com/u/14073052?s=200&v=4" alt="Kinvolk" width="160">
 
 This repository will contain information on how to contribute to Kinvolk's
 projects.
