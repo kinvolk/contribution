@@ -79,7 +79,6 @@ Good:
 ```
 components/cert-manager: update manifest to 0.2
 
-
 Upstream charts for cert-manager has been released to 0.2. This commit
 updates the component to use the latest upstream charts.
 ```
