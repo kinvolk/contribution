@@ -16,4 +16,5 @@ projects and events.
 
 ## Development Topics
 
- * [Git / Github](./git/README.md)
+ * [Git / Github](./topics/git.md)
+ * [Workflow](./topics/workflow.md)
