@@ -16,4 +16,5 @@ Please read it and keep it in mind when participating in our projects.
 
 ## Development Topics
 
- * [Git / Github](./git/README.md)
+ * [Git / Github](./topics/git.md)
+ * [Workflow](./topics/workflow.md)
