@@ -1,18 +1,18 @@
 # Kinvolk Contribution Guidelines <img align="right" src="https://avatars2.githubusercontent.com/u/14073052?s=200&v=4" alt="Kinvolk" width="160">
 
-This repository will contain information on how to contribute to Kinvolk's
-projects.
+This repository contains information on contributing to Kinvolk projects.
 
-The idea is that we have a set of guidelines around the development of
-projects, that is reasonable and easy to understand, so we promote
-consistency and quality in Kinvolk's projects as a common effort.
+These guidelines around the development of projects, are reasonable and easy to
+understand, to promote consistency and quality in Kinvolk projects as a common
+effort.
 
 ## Contributor Code of Conduct
 
-In the interest of promoting a fair, diverse, and open community, Kinvolk
-uses its [Code of Conduct](./CODE_OF_CONDUCT.md) for all its projects.
+In the interest of promoting a fair, diverse, and open community, Kinvolk uses
+its [Code of Conduct](./CODE_OF_CONDUCT.md) for all its projects and events.
 
-Please read it and keep it in mind when participating in our projects.
+Please read and uphold this code-of-conduct while participating in Kinvolk
+projects and events.
 
 ## Development Topics
 
