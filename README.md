@@ -72,6 +72,10 @@ This section highlights the main projects.
 - [Nebraska docs](https://kinvolk.io/docs/nebraska/latest/)
 - [contributing to Nebraska](https://github.com/kinvolk/nebraska#contributing)
 
+## Archived Project
+
+[Kinvolk Archives](https://github.com/kinvolk-archives) hosts many repos that Kinvolk has worked on over time, but are no longer being maintained.
+
 ## Development Topics
 
 - [Git / Github](./topics/git.md)
