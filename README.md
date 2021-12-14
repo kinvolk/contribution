@@ -37,7 +37,7 @@ This section highlights the main projects.
 - [Flatcar docs](https://kinvolk.io/docs/flatcar-container-linux/latest)
 - [Flatcar issue tracker](https://github.com/kinvolk/flatcar/issues)
 - [contributing to Flatcar](https://github.com/kinvolk/Flatcar#contributing-to-flatcar-container-linux)
-- chat: [#flatcar](irc://irc.freenode.org:6667/#flatcar) IRC channel on freenode.org
+- chat: [#flatcar](https://app.element.io/#/room/#flatcar:matrix.org) channel on matrix.org
 - mailing-list: [flatcar-user](https://groups.google.com/g/flatcar-linux-user)
 
 ### Lokomotive Kubernetes
